@@ -1,5 +1,11 @@
+---
+layout: default
+sidebar_desc: "this site acts as my portfolio and some work of which I'm most proud. check out [my github](https://github.com/zerevbrol) for related personal projects that might not have made it here to the big leagues."
+
+---
+
 ## the gist
-this site acts as my portfolio, an overview of some of the work I'm proudest of. also check out [my github](https://github.com/zerevbrol) for related personal projects that might not have made it here to the big leagues.
+
 
 ## chihuly studio, inc. | 2025-
 organizing the personal papers of Dale Chihuly, the preeminent glass artist and pioneer of the studio glass movement. there, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos from my workspace.

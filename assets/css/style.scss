@@ -2,3 +2,22 @@
 ---
 
 @import "{{ site.theme }}";
+
+.sidebar {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-right: 1px solid #ddd;
+  }
+  
+  .sidebar-description {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  section {
+    float: right;
+    width: 70%;
+    padding: 10px;
+  }
