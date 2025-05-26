@@ -1,5 +1,8 @@
 ---
 ---
+
+@import {{ "template" | assets/css/template.scss }};
+
 .sidebar {
     float: left;
     width: 25%;
