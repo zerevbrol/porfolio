@@ -1,6 +1,6 @@
 ---
 layout: default
-sidebar_desc: "this site acts as my portfolio and some work of which I'm most proud. check out [my github](https://github.com/zerevbrol) for related personal projects that might not have made it here to the big leagues."
+sidebar-description: "this site acts as my portfolio and some work of which I'm most proud. check out [my github](https://github.com/zerevbrol) for related personal projects that might not have made it here to the big leagues."
 
 ---
 
