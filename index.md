@@ -4,7 +4,9 @@ layout: default
 ---
 
 ## chihuly studio, inc. | 2025-
-organizing the personal papers of Dale Chihuly, the preeminent glass artist and pioneer of the studio glass movement. there, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos from my workspace.
+organizing the personal papers of Dale Chihuly, the preeminent glass artist and pioneer of the studio glass movement!
+
+there, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos from my workspace.
 
 ## university of washington libraries, special collections | 2022-
 in the visual material division, I have processed, rehoused, and worked with thousands of photographs across more than thirty collections. I am particularly proud of my work processing and arranging the personal photographs and materials of the 'Boys in the Boat' coxswain, Robert Moch.
