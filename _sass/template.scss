@@ -128,11 +128,8 @@ header {
   width:270px;
   float:left;
   position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-header p {
   text-align: justify;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 ul.downloads {
@@ -293,41 +290,6 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-
-.tooltip {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-  text-decoration: none; /* Optional: Remove underline from links */
-}
-
-.tooltip-content {
-  visibility: hidden;
-  width: 200px; /* Adjust width as needed */
-  position: absolute;
-  z-index: 1;
-  bottom: 125%; /* Position above the link */
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: #fff; /* Optional: Background color for the tooltip */
-  border: 1px solid #ddd; /* Optional: Border for the tooltip */
-  padding: 5px;
-  border-radius: 5px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
-  opacity: 0; /* Hidden by default */
-  transition: opacity 0.3s ease-in-out;
-}
-
-.tooltip-content img {
-  max-width: 100%; /* Ensure the image fits within the tooltip */
-  height: auto;
-  border-radius: 5px; /* Optional: Rounded corners for the image */
-}
-
-.tooltip:hover .tooltip-content {
-  visibility: visible;
-  opacity: 1; /* Show the tooltip on hover */
 }
 
 details {
