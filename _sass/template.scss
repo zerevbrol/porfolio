@@ -292,11 +292,13 @@ footer {
   }
 }
 
+/* Style the details container */
 details {
   display: inline-block; /* Keep the details inline with the header */
   margin-left: 10px; /* Add spacing between the header and the arrow */
 }
 
+/* Style the summary element */
 summary {
   list-style: none; /* Remove default bullet styling */
   display: inline-block; /* Keep the arrow inline */
@@ -306,12 +308,15 @@ summary {
   background: none; /* Remove default background */
   border: none; /* Remove default border */
   padding: 0; /* Remove padding */
+  margin-left: 10px; /* Add spacing between the header and the arrow */
 }
 
+/* Hide the default arrow */
 summary::-webkit-details-marker {
-  display: none; /* Hide the default arrow */
+  display: none;
 }
 
+/* Add custom arrows */
 details[open] summary::after {
   content: "▼"; /* Down arrow when open */
   font-size: 12px;
@@ -324,6 +329,7 @@ summary::after {
   color: #333; /* Adjust color */
 }
 
-details p {
-  margin-top: 10px; /* Add spacing for the collapsible content */
+/* Ensure Markdown inside details is styled properly */
+details p, details ul, details ol {
+  margin: 0.5em 0; /* Add spacing for content inside details */
 }
