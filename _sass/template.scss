@@ -131,6 +131,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header p {
+  text-align: justify;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
