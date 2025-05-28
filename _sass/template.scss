@@ -293,33 +293,37 @@ footer {
 }
 
 details {
-  margin: 1em 0; /* Add spacing around the collapsible section */
-  padding: 0.5em; /* Add padding inside the details box */
-  border: 1px solid #ddd; /* Match the border style of other elements */
-  border-radius: 5px; /* Rounded corners */
-  background-color: #f9f9f9; /* Light background color */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
-  font-family: inherit; /* Match the font style of the rest of the site */
+  display: inline-block; /* Keep the details inline with the header */
+  margin-left: 10px; /* Add spacing between the header and the arrow */
 }
 
 summary {
-  font-weight: bold; /* Make the summary text bold */
-  cursor: pointer; /* Show a pointer cursor to indicate it's clickable */
-  padding: 0.5em; /* Add padding to the summary */
-  background-color: #eaeaea; /* Light gray background for the summary */
-  border-radius: 5px; /* Match the border radius */
-  transition: background-color 0.3s ease; /* Smooth hover effect */
+  list-style: none; /* Remove default bullet styling */
+  display: inline-block; /* Keep the arrow inline */
+  cursor: pointer; /* Show a pointer cursor */
+  width: 16px; /* Adjust width for the arrow */
+  height: 16px; /* Adjust height for the arrow */
+  background: none; /* Remove default background */
+  border: none; /* Remove default border */
+  padding: 0; /* Remove padding */
 }
 
-summary:hover {
-  background-color: #ddd; /* Darker gray on hover */
+summary::-webkit-details-marker {
+  display: none; /* Hide the default arrow */
 }
 
-details[open] {
-  background-color: #fff; /* Change background when expanded */
-  border-color: #ccc; /* Slightly darker border when expanded */
+details[open] summary::after {
+  content: "▼"; /* Down arrow when open */
+  font-size: 12px;
+  color: #333; /* Adjust color */
 }
 
-details p, details ul {
-  margin: 0.5em 0; /* Add spacing for content inside details */
+summary::after {
+  content: "▶"; /* Right arrow when closed */
+  font-size: 12px;
+  color: #333; /* Adjust color */
+}
+
+details p {
+  margin-top: 10px; /* Add spacing for the collapsible content */
 }
