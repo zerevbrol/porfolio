@@ -329,3 +329,35 @@ footer {
   visibility: visible;
   opacity: 1; /* Show the tooltip on hover */
 }
+
+details {
+  margin: 1em 0; /* Add spacing around the collapsible section */
+  padding: 0.5em; /* Add padding inside the details box */
+  border: 1px solid #ddd; /* Match the border style of other elements */
+  border-radius: 5px; /* Rounded corners */
+  background-color: #f9f9f9; /* Light background color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+  font-family: inherit; /* Match the font style of the rest of the site */
+}
+
+summary {
+  font-weight: bold; /* Make the summary text bold */
+  cursor: pointer; /* Show a pointer cursor to indicate it's clickable */
+  padding: 0.5em; /* Add padding to the summary */
+  background-color: #eaeaea; /* Light gray background for the summary */
+  border-radius: 5px; /* Match the border radius */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+summary:hover {
+  background-color: #ddd; /* Darker gray on hover */
+}
+
+details[open] {
+  background-color: #fff; /* Change background when expanded */
+  border-color: #ccc; /* Slightly darker border when expanded */
+}
+
+details p, details ul {
+  margin: 0.5em 0; /* Add spacing for content inside details */
+}
