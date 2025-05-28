@@ -5,7 +5,7 @@ layout: default
 
 ## chihuly studio, inc. | 2025-
 <details>
-</summary>
+<summary></summary>
 <p>
 organizing the personal papers of Dale Chihuly, the preeminent glass artist and pioneer of the studio glass movement!
 
@@ -17,7 +17,7 @@ here's my work area and personal desk.
 
 ## university of washington libraries, special collections | 2022-
 <details>
-</summary>
+<summary></summary>
 <p>
 in the visual material division, I have processed, rehoused, and worked with thousands of photographs across more than thirty collections. I am particularly proud of my work processing and arranging the personal photographs and materials of the 'Boys in the Boat' coxswain, Robert Moch.
 
@@ -31,7 +31,7 @@ in the architecture drawings division, I am rehousing the architecture drawings 
 
 ## independent archival consulting | 2023-
 <details>
-</summary>
+<summary></summary>
 <p>
 working with a variety of clients with different archival scopes.
 </p>
