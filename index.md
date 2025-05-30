@@ -5,7 +5,7 @@ layout: default
 
 ## chihuly studio, inc. | 2025-
 <details>
-<summary></summary>
+<summary>My newest experience, and my first step into professional archiving!</summary>
 <p>
 {{ "
 organizing the personal papers of Dale Chihuly, preeminent glass artist and pioneer of the studio glass movement!
@@ -17,7 +17,7 @@ at the studio, I work with corporate records and personal papers, as well as aud
 
 ## university of washington libraries, special collections | 2022-
 <details>
-<summary></summary>
+<summary>My experience which has given me the greatest depth and breadth of work!</summary>
 <p>
 {{ "
 in the visual material division, I have processed, rehoused, and worked with thousands of photographs across more than thirty collections. I am particularly proud of my work processing and arranging the personal photographs and materials of the 'Boys in the Boat' coxswain, Robert Moch.
@@ -33,7 +33,7 @@ in the architecture drawings division, I am rehousing the architecture drawings 
 
 ## independent archival consulting | 2023-
 <details>
-<summary></summary>
+<summary>What has given me the confidence to try to become a professional archivist?</summary>
 <p>
 {{ "
 my Seattle-area clients have run the gamut!
@@ -49,10 +49,10 @@ I've also assessed and assited in the valuation of a collection of rare 20th cen
 
 ## skills and other accolades
 <details>
-<summary></summary>
+<summary>All the cool skills I've learned during my time at UW!</summary>
 <p>
 {{ "
-throughout my time at the university, I've set out to improve a number of my archival soft skills, including my object handling procedure and preventative conservation practices. Working with patrons has improved my library front-of-house best practices and standards, including policy creation and administrative procedures, including (de-) accessioning, acquisition, and conservation. I've updated and improved my processing procedures for nitrate, acetate, and polyester film and accompanying print media, as well as encoding procedures in DACS, EAD, ASpace, and their implementation in XMetal.
+throughout my time at the university, I've set out to improve a number of my archival soft skills, including my object handling procedure and preventative conservation practices. Working with patrons has improved my library front-of-house best practices and standards, including policy creation and administrative procedures, including (de-) accessioning, acquisition, and conservation. I've updated and improved my processing procedures for nitrate, acetate, and polyester film and accompanying print media, as well as encoding procedures in DACS, EAD, ASpace, and their implementation in XMetal. I've also learned how to make some [pretty nifty phase wrappers]()!
 
 I have also iterated on my skill related grant writing and funding, as well as the handling of materials and grants. I also improved my interdisciplinary and critical research strategies by gaining experience with community co-created methodologies!
 " | markdownify }}
