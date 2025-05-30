@@ -5,7 +5,7 @@ layout: default
 
 ## chihuly studio, inc. | 2025-
 <details>
-<summary>Working for Tacoma's sexiest daddy! Drop down menu.</summary>
+<summary></summary>
 <p>
 {{ "
 organizing the personal papers of Dale Chihuly, preeminent glass artist and pioneer of the studio glass movement!
