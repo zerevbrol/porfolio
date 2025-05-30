@@ -38,8 +38,14 @@ in the architecture drawings division, I am rehousing the architecture drawings 
 <summary></summary>
 <p>
 {{ "
-working with a variety of clients with different archival scopes.
+my clients have run the gamut from small local archives to individual patrons.
+
+I have leveraged my skills in policy creation
 " | markdownify }}
 </p>
 </details>
+
+## skills and other accolades
+
+
 
