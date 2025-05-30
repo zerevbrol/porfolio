@@ -16,6 +16,7 @@ at the studio, I work with corporate records and personal papers, as well as aud
 <p></p>
 </details>
 
+
 ## university of washington libraries, special collections | 2022-
 <details>
 <summary>My experience which has given me the greatest depth and breadth of work!</summary>
@@ -33,6 +34,7 @@ in the architecture drawings division, I am rehousing the architecture drawings 
 <p></p>
 </details>
 
+
 ## independent archival consulting | 2023-
 <details>
 <summary>What has given me the confidence to try to become a professional archivist?</summary>
@@ -49,6 +51,7 @@ I've also assessed and assited in the valuation of a collection of rare 20th cen
 </p>
 <p></p>
 </details>
+
 
 ## skills and other accolades
 <details>
