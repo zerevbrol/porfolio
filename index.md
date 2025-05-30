@@ -10,7 +10,7 @@ layout: default
 {{ "
 organizing the personal papers of Dale Chihuly, preeminent glass artist and pioneer of the studio glass movement!
 
-at the studio, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos of my [workspace]() and the [archive itself]()!
+at the studio, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos of my [workspace](assets/images/archive_upstairs.png), [office](assets/images/workspace.png), and the [archive itself](assets/images/archive_interior.png)!
 " | markdownify }}
 </p>
 <p></p>
@@ -58,7 +58,7 @@ I've also assessed and assited in the valuation of a collection of rare 20th cen
 <summary>All the cool skills I've learned during my time at UW!</summary>
 <p>
 {{ "
-throughout my time at the university, I've set out to improve a number of my archival soft skills, including my object handling procedure and preventative conservation practices. Working with patrons has improved my library front-of-house best practices and standards, including policy creation and administrative procedures, including (de-) accessioning, acquisition, and conservation. I've updated and improved my processing procedures for nitrate, acetate, and polyester film and accompanying print media, as well as encoding procedures in DACS, EAD, ASpace, and their implementation in XMetal. I've also learned how to make some [pretty nifty phase wrappers]()!
+throughout my time at the university, I've set out to improve a number of my archival soft skills, including my object handling procedure and preventative conservation practices. Working with patrons has improved my library front-of-house best practices and standards, including policy creation and administrative procedures, including (de-) accessioning, acquisition, and conservation. I've updated and improved my processing procedures for nitrate, acetate, and polyester film and accompanying print media, as well as encoding procedures in DACS, EAD, ASpace, and their implementation in XMetal. I've also learned how to make some [pretty nifty phase wrappers](assets/images/phase_wrapper.png)!
 
 I have also iterated on my skill related grant writing and funding, as well as the handling of materials and grants. I also improved my interdisciplinary and critical research strategies by gaining experience with community co-created methodologies!
 " | markdownify }}
