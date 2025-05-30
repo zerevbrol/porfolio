@@ -36,7 +36,7 @@ in the architecture drawings division, I am rehousing the architecture drawings 
 <summary></summary>
 <p>
 {{ "
-my clients have run the gamut in the Seattle area!
+my Seattle-area clients have run the gamut!
 
 for a small local arts archive, I have leveraged my skills in policy creation to create dynamic processing manuals and strategic planning. my work also focused on alignment with grant funder guidelines and professional development trainings for staff at the archive.
 

@@ -333,4 +333,5 @@ summary::after {
 /* Ensure Markdown inside details is styled properly */
 details p, details ul, details ol {
   margin: 0.5em 0; /* Add spacing for content inside details */
+  text-align: justify;
 }
