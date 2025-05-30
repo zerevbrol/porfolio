@@ -5,7 +5,7 @@ layout: default
 
 ## chihuly studio, inc. | 2025-
 <details>
-<summary></summary>
+<summary>Click to learn more!</summary>
 <p>
 {{ "
 organizing the personal papers of Dale Chihuly, preeminent glass artist and pioneer of the studio glass movement!
