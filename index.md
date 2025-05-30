@@ -10,7 +10,7 @@ layout: default
 {{ "
 organizing the personal papers of Dale Chihuly, preeminent glass artist and pioneer of the studio glass movement!
 
-at the studio, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos of my workspace and the archive itself!
+at the studio, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos of my [workspace]() and the [archive itself]()!
 " | markdownify }}
 </p>
 </details>
@@ -40,7 +40,9 @@ my Seattle-area clients have run the gamut!
 
 for a small local arts archive, I have leveraged my skills in policy creation to create dynamic processing manuals and strategic planning. my work also focused on alignment with grant funder guidelines and professional development trainings for staff at the archive.
 
-my individual clients have included rare book collectors and subject-area collection specialists. for these clients, I've produced finding aids for a varied collection of rare books, ephemera, and manuscripts, culminating in donation to the Rare Books Division of the University of Washington Libraries. I've also assessed and assited in the valuation of a collection of rare 20th century American literature. I've conducted informal research and market analysis of materials, prepared descriptive materials for the collection's auction site, and communicated timely, accurate evaluation to stakeholders.
+my individual clients have included rare book collectors and subject-area collection specialists. for these clients, I've produced finding aids for a varied collection of rare books, ephemera, and manuscripts, culminating in donation to the Rare Books Division of the University of Washington Libraries. 
+
+I've also assessed and assited in the valuation of a collection of rare 20th century American literature. I've conducted informal research and market analysis of materials, prepared descriptive materials for the collection's auction site, and communicated timely, accurate evaluation to stakeholders.
 " | markdownify }}
 </p>
 </details>
@@ -50,7 +52,9 @@ my individual clients have included rare book collectors and subject-area collec
 <summary></summary>
 <p>
 {{ "
+throughout my time at the university, I've set out to improve a number of my archival soft skills, including my object handling procedure and preventative conservation practices. Working with patrons has improved my library front-of-house best practices and standards, including policy creation and administrative procedures, including (de-) accessioning, acquisition, and conservation. I've updated and improved my processing procedures for nitrate, acetate, and polyester film and accompanying print media, as well as encoding procedures in DACS, EAD, ASpace, and their implementation in XMetal.
 
+I have also iterated on my skill related grant writing and funding, as well as the handling of materials and grants. I also improved my interdisciplinary and critical research strategies by gaining experience with community co-created methodologies!
 " | markdownify }}
 </p>
 </details>
