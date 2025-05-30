@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   input: GFM
-title: "L.P. BRYANT"
+title: "L. P. BRYANT"
 trunc_title: "l.p.b.'s portfolio"
 description: "seattle-based archivist and information professional"
 favicon: assets/images/apple-touch-icon.png
