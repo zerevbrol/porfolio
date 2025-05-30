@@ -13,6 +13,7 @@ organizing the personal papers of Dale Chihuly, preeminent glass artist and pion
 at the studio, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos of my [workspace]() and the [archive itself]()!
 " | markdownify }}
 </p>
+<p></p>
 </details>
 
 ## university of washington libraries, special collections | 2022-
@@ -29,6 +30,7 @@ I've also processed some other notable collections at the UW, including the [C.W
 in the architecture drawings division, I am rehousing the architecture drawings collection of Carl Gould Sr., the first licensed architect in Washington state. I have taken disparate drawings and rearranged them into one cohesive map case set, using highly-technical skills for moving delicate, century-old work.
 " | markdownify }}
 </p>
+<p></p>
 </details>
 
 ## independent archival consulting | 2023-
@@ -45,6 +47,7 @@ my individual clients have included rare book collectors and subject-area collec
 I've also assessed and assited in the valuation of a collection of rare 20th century American literature. I've conducted informal research and market analysis of materials, prepared descriptive materials for the collection's auction site, and communicated timely, accurate evaluation to stakeholders.
 " | markdownify }}
 </p>
+<p></p>
 </details>
 
 ## skills and other accolades
@@ -57,6 +60,7 @@ throughout my time at the university, I've set out to improve a number of my arc
 I have also iterated on my skill related grant writing and funding, as well as the handling of materials and grants. I also improved my interdisciplinary and critical research strategies by gaining experience with community co-created methodologies!
 " | markdownify }}
 </p>
+<p></p>
 </details>
 
 
