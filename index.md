@@ -8,11 +8,9 @@ layout: default
 <summary></summary>
 <p>
 {{ "
-organizing the personal papers of Dale Chihuly, the preeminent glass artist and pioneer of the studio glass movement!
+organizing the personal papers of Dale Chihuly, preeminent glass artist and pioneer of the studio glass movement!
 
-there, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos from my workspace.
-
-here's my work area and personal desk.
+at the studio, I work with corporate records and personal papers, as well as audio-visual materials. the work I do, and content I create, is privileged information, but here are some photos of my workspace and the archive itself!
 " | markdownify }}
 </p>
 </details>
@@ -38,14 +36,23 @@ in the architecture drawings division, I am rehousing the architecture drawings 
 <summary></summary>
 <p>
 {{ "
-my clients have run the gamut from small local archives to individual patrons.
+my clients have run the gamut in the Seattle area!
 
-I have leveraged my skills in policy creation
+for a small local arts archive, I have leveraged my skills in policy creation to create dynamic processing manuals and strategic planning. my work also focused on alignment with grant funder guidelines and professional development trainings for staff at the archive.
+
+my individual clients have included rare book collectors and subject-area collection specialists. for these clients, I've produced finding aids for a varied collection of rare books, ephemera, and manuscripts, culminating in donation to the Rare Books Division of the University of Washington Libraries. I've also assessed and assited in the valuation of a collection of rare 20th century American literature. I've conducted informal research and market analysis of materials, prepared descriptive materials for the collection's auction site, and communicated timely, accurate evaluation to stakeholders.
 " | markdownify }}
 </p>
 </details>
 
 ## skills and other accolades
+<details>
+<summary></summary>
+<p>
+{{ "
 
+" | markdownify }}
+</p>
+</details>
 
 
